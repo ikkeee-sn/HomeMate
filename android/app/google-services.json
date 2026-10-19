@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639451136276",
+    "project_id": "homemate-5dcbf",
+    "storage_bucket": "homemate-5dcbf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639451136276:android:20d03eb7e76904687d8201",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tugas3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtM7wXIliW343xV3IkAI6vvx1NhwWc7c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
